@@ -11,7 +11,6 @@ const total_price = document.getElementById("total_price");
 console.log(total_price);
 
 const unit_price = document.getElementById("unit_price").textContent;
-console.log(unit_price);
 
 let quantity = 0;
 
